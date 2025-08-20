@@ -11,4 +11,4 @@ With 16+ years in QA and a strong pivot into AI/ML and Product Strategy, I build
 - 📰 [Fake News Detection with BERT](https://github.com/01rahulsingh86/fake-news-detector)  
 - 🧠 [LLM Resume Chatbot](https://github.com/01rahulsingh86/resume-bot)
 
-📫 Let's connect: [LinkedIn](https://linkedin.com/in/rahulsi01)
+📫 Let's connect: [LinkedIn] https://linkedin.com/in/rahulsi01
