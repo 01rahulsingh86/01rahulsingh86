@@ -102,23 +102,33 @@
 </div>
 
 
+# 🤖 AI Projects Portfolio
 
 # 🤖 AI Projects Portfolio
 
 | Project | Python Libraries | Cloud Services | Live Demo | AI Type | Status |
 |---------|------------------|----------------|:---------:|:-------:|:------:|
-| [**text-to-sql-llm-app**](https://github.com/01rahulsingh86/text-to-sql-llm-app) | LangChain, Transformers, SQLAlchemy | OpenAI, Azure SQL | ✅ | 🧠 LLM | ✅ |
-| [**ai-chatbot-assistant**](https://github.com/01rahulsingh86/ai-chatbot-assistant) | OpenAI, Streamlit, PyPDF2 | OpenAI API, Heroku | ✅ | 💬 NLP | ✅ |
-| [**computer-vision-analyzer**](https://github.com/01rahulsingh86/computer-vision-analyzer) | OpenCV, TensorFlow, PIL | AWS S3, Lambda | ✅ | 👁️ CV | ✅ |
-| [**ml-prediction-engine**](https://github.com/01rahulsingh86/ml-prediction-engine) | Scikit-learn, Pandas, NumPy | Azure ML Studio | ✅ | 📊 ML | ✅ |
-| [**nlp-sentiment-analyzer**](https://github.com/01rahulsingh86/nlp-sentiment-analyzer) | NLTK, SpaCy, Transformers | Google Cloud AI | ✅ | 📝 NLP | ✅ |
-| [**recommendation-system**](https://github.com/01rahulsingh86/recommendation-system) | TensorFlow, Keras, Surprise | AWS EC2, RDS | ✅ | 🎯 ML | ✅ |
-| [**image-classification-api**](https://github.com/01rahulsingh86/image-classification-api) | PyTorch, FastAPI, Pillow | Docker, AWS ECS | ✅ | 🖼️ DL | ✅ |
-| [**voice-recognition-app**](https://github.com/01rahulsingh86/voice-recognition-app) | SpeechRecognition, PyAudio | Azure Speech Services | ✅ | 🎤 ASR | ✅ |
-| [**data-mining-toolkit**](https://github.com/01rahulsingh86/data-mining-toolkit) | Pandas, Matplotlib, Seaborn | Jupyter Hub, GitHub Pages | ✅ | 📈 DA | ✅ |
-| [**neural-network-playground**](https://github.com/01rahulsingh86/neural-network-playground) | TensorFlow, Keras, Plotly | TensorBoard, Colab | ✅ | 🧪 DL | 🚧 |
+| [**NL-SQL-LLM-APP**](https://github.com/01rahulsingh86/NL-SQL-LLM-APP) | FastAPI, OpenAI, SQLite | OpenAI API | ✅ | 🧠 LLM → SQL | ✅ |
+| [**LawBot---Your-Legal-Assistant**](https://github.com/01rahulsingh86/LawBot---Your-Legal-Assistant) | OpenAI, LangChain | OpenAI API | ✅ | ⚖️ LLM Law | 🚧 |
+| [**simple-fastapi-container**](https://github.com/01rahulsingh86/simple-fastapi-container) | FastAPI, Uvicorn | Docker | ✅ | ⚡ API | ✅ |
+| [**Perf-Testing-JMeter-and-WireMock**](https://github.com/01rahulsingh86/Perf-Testing-JMeter-and-WireMock) | JMeter, WireMock | Local / CI | — | 🧪 QA / Perf | ✅ |
+| [**playwright-pro-portfolio**](https://github.com/01rahulsingh86/playwright-pro-portfolio) | Playwright, TypeScript | GitHub Pages | ✅ | 🧪 QA / Automation | ✅ |
+| [**human-eval-mini**](https://github.com/01rahulsingh86/human-eval-mini) | Python, LLM Eval Harness | OpenAI API | — | 🧠 Code Gen | 🚧 |
+| [**soulsort_macos_voices_mvp**](https://github.com/01rahulsingh86/soulsort_macos_voices_mvp) | Swift, macOS Speech | macOS App | — | 🎤 Voice UI | 🚧 |
+| [**systemdesign**](https://github.com/01rahulsingh86/systemdesign) | Markdown, Diagrams | GitHub Pages | ✅ | 📐 Design | ✅ |
+| [**JavaDSAInterviewKit**](https://github.com/01rahulsingh86/JavaDSAInterviewKit) | Java DSA | — | — | 📚 Learning | ✅ |
+| [**JavaDSPlayground**](https://github.com/01rahulsingh86/JavaDSPlayground) | Java, Data Structures | — | — | 📚 Learning | ✅ |
+| [**api-automation-framework**](https://github.com/01rahulsingh86/api-automation-framework) | JavaScript, Service Object Model | — | — | 🔧 API Automation | ✅ |
+| [**music-recommender-ML-model**](https://github.com/01rahulsingh86/music-recommender-ML-model) | Scikit-learn, Pandas, NumPy | — | — | 🎶 ML Recommender | 🚧 |
+| [**ai_model_testing**](https://github.com/01rahulsingh86/ai_model_testing) | Python, AI Testing | — | — | 🧪 AI Testing | 🚧 |
+| [**rahulsinghportfolio**](https://github.com/01rahulsingh86/rahulsinghportfolio) | JavaScript, Portfolio | GitHub Pages | ✅ | 🌐 Web Dev | ✅ |
+| [**resume-rahul**](https://github.com/01rahulsingh86/resume-rahul) | React, TypeScript | GitHub Pages | ✅ | 🌐 Web Dev | ✅ |
+| [**portfolio**](https://github.com/01rahulsingh86/portfolio) | React, TypeScript | GitHub Pages | ✅ | 🌐 Web Dev | ✅ |
+| [**Chirpify**](https://github.com/01rahulsingh86/Chirpify) | React, TypeScript | GitHub Pages | ✅ | 🐦 Social App | 🚧 |
+| [**anime-from-selfie**](https://github.com/01rahulsingh86/anime-from-selfie) | Python, ML, CV | — | — | 🖼️ CV | 🚧 |
+| [**yashitanamdeo.github.io**](https://github.com/01rahulsingh86/yashitanamdeo.github.io) | JavaScript, Portfolio | GitHub Pages | ✅ | 🌐 Web Dev | ✅ |
+| [**Reacttodolist**](https://github.com/01rahulsingh86/Reacttodolist) | React.js | — | — | ✅ ToDo App | ✅ |
 
----
 
 ## 🏗️ **Architecture Overview**
 
@@ -165,11 +175,11 @@
 - **Features**: Multi-database support, RAG architecture, Enterprise-ready
 - **Repository**: [🔗 View Code](https://github.com/01rahulsingh86/NL-SQL-LLM-APP)
 
-### 2. ⚖️ **LawBot - Legal AI Assistant**
+### 2. ⚖️ **LawBot - Your Legal Assistant**
 - **Description**: AI-powered legal assistant for legal queries and research
 - **Tech Stack**: Python, NLP, Legal Domain Processing
 - **Features**: Legal document analysis, Q&A system, Case research
-- **Repository**: [🔗 View Code](https://github.com/01rahulsingh86/LawBot)
+- **Repository**: [🔗 View Code](https://github.com/01rahulsingh86/LawBot---Your-Legal-Assistant)
 
 ### 3. 🎭 **Playwright Pro Portfolio**
 - **Description**: Professional-grade E2E, API, Visual & Accessibility testing
@@ -181,7 +191,16 @@
 - **Description**: Machine Learning model for personalized music recommendations
 - **Tech Stack**: Jupyter, Pandas, Scikit-learn, ML Pipelines
 - **Features**: Collaborative filtering, Content-based recommendations
+- **Repository**: [🔗 View Code](https://github.com/01rahulsingh86/music-recommender-ML-model)ines
+- **Features**: Collaborative filtering, Content-based recommendations
 - **Repository**: [🔗 View Code](https://github.com/01rahulsingh86/music-recommender-ML-model)
+
+---
+
+## 📈 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01rahulsingh86&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01rahulsingh86&layout=compact&theme=radical)
 
 ---
 
@@ -205,6 +224,5 @@
 ---
 
 **⭐ Don't forget to star the repositories you find interesting!**
-
 
 
