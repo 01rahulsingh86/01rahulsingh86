@@ -110,20 +110,18 @@
 | [**NL-SQL-LLM-APP**](https://github.com/01rahulsingh86/NL-SQL-LLM-APP) | FastAPI, OpenAI, SQLite | OpenAI API | ✅ | 🧠 LLM → SQL | ✅ |
 | [**LawBot---Your-Legal-Assistant**](https://github.com/01rahulsingh86/LawBot---Your-Legal-Assistant) | OpenAI, LangChain | OpenAI API | ✅ | ⚖️ LLM Law | 🚧 |
 | [**simple-fastapi-container**](https://github.com/01rahulsingh86/simple-fastapi-container) | FastAPI, Uvicorn | Docker | ✅ | ⚡ API | ✅ |
+| [**music-recommender-ML-model**](https://github.com/01rahulsingh86/music-recommender-ML-model) | Scikit-learn, Pandas, NumPy | — | — | 🎶 ML Recommender | 🚧 |
 | [**Perf-Testing-JMeter-and-WireMock**](https://github.com/01rahulsingh86/Perf-Testing-JMeter-and-WireMock) | JMeter, WireMock | Local / CI | — | 🧪 QA / Perf | ✅ |
+| [**ai_model_testing**](https://github.com/01rahulsingh86/ai_model_testing) | Python, AI Testing | — | — | 🧪 AI Testing | 🚧 |
 | [**playwright-pro-portfolio**](https://github.com/01rahulsingh86/playwright-pro-portfolio) | Playwright, TypeScript | GitHub Pages | ✅ | 🧪 QA / Automation | ✅ |
 | [**human-eval-mini**](https://github.com/01rahulsingh86/human-eval-mini) | Python, LLM Eval Harness | OpenAI API | — | 🧠 Code Gen | 🚧 |
 | [**soulsort_macos_voices_mvp**](https://github.com/01rahulsingh86/soulsort_macos_voices_mvp) | Swift, macOS Speech | macOS App | — | 🎤 Voice UI | 🚧 |
-| [**systemdesign**](https://github.com/01rahulsingh86/systemdesign) | Markdown, Diagrams | GitHub Pages | ✅ | 📐 Design | ✅ |
 | [**JavaDSAInterviewKit**](https://github.com/01rahulsingh86/JavaDSAInterviewKit) | Java DSA | — | — | 📚 Learning | ✅ |
 | [**JavaDSPlayground**](https://github.com/01rahulsingh86/JavaDSPlayground) | Java, Data Structures | — | — | 📚 Learning | ✅ |
 | [**api-automation-framework**](https://github.com/01rahulsingh86/api-automation-framework) | JavaScript, Service Object Model | — | — | 🔧 API Automation | ✅ |
-| [**music-recommender-ML-model**](https://github.com/01rahulsingh86/music-recommender-ML-model) | Scikit-learn, Pandas, NumPy | — | — | 🎶 ML Recommender | 🚧 |
-| [**ai_model_testing**](https://github.com/01rahulsingh86/ai_model_testing) | Python, AI Testing | — | — | 🧪 AI Testing | 🚧 |
 | [**rahulsinghportfolio**](https://github.com/01rahulsingh86/rahulsinghportfolio) | JavaScript, Portfolio | GitHub Pages | ✅ | 🌐 Web Dev | ✅ |
 | [**resume-rahul**](https://github.com/01rahulsingh86/resume-rahul) | React, TypeScript | GitHub Pages | ✅ | 🌐 Web Dev | ✅ |
 | [**portfolio**](https://github.com/01rahulsingh86/portfolio) | React, TypeScript | GitHub Pages | ✅ | 🌐 Web Dev | ✅ |
-| [**Chirpify**](https://github.com/01rahulsingh86/Chirpify) | React, TypeScript | GitHub Pages | ✅ | 🐦 Social App | 🚧 |
 | [**anime-from-selfie**](https://github.com/01rahulsingh86/anime-from-selfie) | Python, ML, CV | — | — | 🖼️ CV | 🚧 |
 | [**yashitanamdeo.github.io**](https://github.com/01rahulsingh86/yashitanamdeo.github.io) | JavaScript, Portfolio | GitHub Pages | ✅ | 🌐 Web Dev | ✅ |
 | [**Reacttodolist**](https://github.com/01rahulsingh86/Reacttodolist) | React.js | — | — | ✅ ToDo App | ✅ |
