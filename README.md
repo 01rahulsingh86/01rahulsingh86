@@ -84,13 +84,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahuls01)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/01rahulsingh86)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techmr.singh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://01rahulsingh86.github.io/rahulsinghportfolio/)
 
 </div>
-
 ---
 
 <div align="center">
@@ -101,9 +100,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=01rahulsingh86&color=brightgreen&style=flat)
 
 </div>
-
-
-
 
 
 
@@ -163,30 +159,29 @@
 
 ## 🚀 **Featured Projects**
 
-### 1. 🧠 **Text-to-SQL LLM Application**
-- **Description**: Natural language to SQL query converter using Llama
-- **Tech Stack**: LangChain, Transformers, SQLAlchemy, Streamlit
+### 1. 🧠 **NL-SQL-LLM-APP** - *Most Advanced*
+- **Description**: Natural Language to SQL converter using Large Language Models
+- **Tech Stack**: LangChain, Transformers, Vector Database, Python
 - **Features**: Multi-database support, RAG architecture, Enterprise-ready
-- **Live Demo**: [🔗 View Demo](https://your-demo-link.com)
+- **Repository**: [🔗 View Code](https://github.com/01rahulsingh86/NL-SQL-LLM-APP)
 
-### 2. 💬 **AI Chatbot Assistant**
-- **Description**: Intelligent conversational AI with document processing
-- **Tech Stack**: OpenAI API, Streamlit, Vector Database
-- **Features**: PDF processing, Context-aware responses, Multi-language
-- **Live Demo**: [🔗 View Demo](https://your-demo-link.com)
+### 2. ⚖️ **LawBot - Legal AI Assistant**
+- **Description**: AI-powered legal assistant for legal queries and research
+- **Tech Stack**: Python, NLP, Legal Domain Processing
+- **Features**: Legal document analysis, Q&A system, Case research
+- **Repository**: [🔗 View Code](https://github.com/01rahulsingh86/LawBot)
 
-### 3. 👁️ **Computer Vision Analyzer**
-- **Description**: Real-time object detection and image analysis
-- **Tech Stack**: OpenCV, YOLO, TensorFlow, FastAPI
-- **Features**: Real-time processing, Multiple model support, REST API
-- **Live Demo**: [🔗 View Demo](https://your-demo-link.com)
+### 3. 🎭 **Playwright Pro Portfolio**
+- **Description**: Professional-grade E2E, API, Visual & Accessibility testing
+- **Tech Stack**: TypeScript, Playwright, CI/CD Pipeline
+- **Features**: Multi-type testing, Automated reporting, Cross-browser
+- **Repository**: [🔗 View Code](https://github.com/01rahulsingh86/playwright-pro-portfolio)
 
----
-
-## 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01rahulsingh86&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01rahulsingh86&layout=compact&theme=radical)
+### 4. 🎵 **Music Recommender ML Model**
+- **Description**: Machine Learning model for personalized music recommendations
+- **Tech Stack**: Jupyter, Pandas, Scikit-learn, ML Pipelines
+- **Features**: Collaborative filtering, Content-based recommendations
+- **Repository**: [🔗 View Code](https://github.com/01rahulsingh86/music-recommender-ML-model)
 
 ---
 
@@ -210,4 +205,6 @@
 ---
 
 **⭐ Don't forget to star the repositories you find interesting!**
+
+
 
