@@ -104,7 +104,6 @@
 
 # 🤖 AI Projects Portfolio
 
-# 🤖 AI Projects Portfolio
 
 | Project | Python Libraries | Cloud Services | Live Demo | AI Type | Status |
 |---------|------------------|----------------|:---------:|:-------:|:------:|
