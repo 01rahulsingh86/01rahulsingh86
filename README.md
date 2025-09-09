@@ -1,10 +1,110 @@
--# 👋 Hi, I'm Rahul Singh
+# 👋 Hi, I'm Rahul Singh
 
-🚀 QA Leader | 🤖 AI/ML Enthusiast | 🧠 Product-Minded Builder
+<div align="center">
 
-With 16+ years in QA and a strong pivot into AI/ML and Product Strategy, I build high-impact tools, automation frameworks, and intelligent applications. I specialize in scalable test automation, ML-integrated workflows, and creating data-driven products.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=QA+Leader+%7C+AI%2FML+Enthusiast;16%2B+Years+Experience;Building+Intelligent+Applications;Product-Minded+Problem+Solver)
 
-🛠️ Tech Stack: Python • Java • Playwright • HuggingFace • TensorFlow • Transformers • FastAPI • Docker • Streamlit • MongoDB • GitHub Actions
+</div>
+
+## 🚀 **About Me**
+**QA Leader** turning into **AI/ML Product Builder** with **16+ years** of experience transforming quality processes into intelligent, data-driven solutions. I specialize in bridging the gap between traditional testing and cutting-edge AI applications.
+
+### 🎯 **What I Do**
+- 🤖 **AI/ML Applications**: Building LLM-powered tools, NLP solutions, and intelligent automation
+- 🧪 **Quality Engineering**: Scalable test automation and ML-integrated QA workflows  
+- 📊 **Product Strategy**: Data-driven product development and user-centric solutions
+- 🔧 **Technical Leadership**: Mentoring teams and architecting robust, scalable systems
+
+---
+
+## 💼 **Professional Journey**
+
+| Role | Focus | Impact |
+|------|-------|--------|
+| **🎯 QA Leader** | Test Strategy & Automation | Built frameworks used by 100+ engineers |
+| **🤖 AI/ML Engineer** | LLM Applications & NLP | Deployed production AI systems |
+| **📋 Product Strategist** | User Experience & Data | Improved product metrics by 40% |
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+### **AI/ML & Data**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-🤗%20Transformers-FFD700?style=flat&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+### **QA & Automation**
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-DC382D?style=flat&logoColor=white)
+
+### **Development & Deployment**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 🎯 **Current Focus Areas**
+- 🧠 **Large Language Models**: Text-to-SQL, RAG systems, and conversational AI
+- 🔍 **Intelligent QA**: ML-enhanced testing and predictive quality metrics  
+- 🌐 **Full-Stack AI Apps**: End-to-end AI product development
+- 📚 **Knowledge Sharing**: Mentoring and building AI communities
+
+---
+
+## 📈 **GitHub Highlights**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01rahulsingh86&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01rahulsingh86&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=01rahulsingh86&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 🌟 **Fun Facts**
+- 🎓 **Self-taught AI/ML enthusiast** who pivoted from traditional QA to AI engineering
+- 🏆 **16+ years** of breaking things professionally (and now fixing them with AI!)
+- ☕ **Coffee-powered coder** who believes every bug is just an undocumented feature
+- 🚀 **Always learning** - Currently exploring MLOps and AI product management
+
+---
+
+## 📬 **Let's Connect!**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"Transforming quality assurance through intelligent automation and AI-driven insights"*
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=01rahulsingh86.01rahulsingh86)
+![Profile Views](https://komarev.com/ghpvc/?username=01rahulsingh86&color=brightgreen&style=flat)
+
+</div>
+
+
+
+
 
 
 # 🤖 AI Projects Portfolio
